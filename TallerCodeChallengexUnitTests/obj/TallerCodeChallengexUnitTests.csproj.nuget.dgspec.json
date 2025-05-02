@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengexUnitTests/TallerCodeChallengexUnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
+        "projectName": "TallerCodeChallengeAPI",
+        "projectPath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
+        "packagesPath": "/Users/robertomartinez/.nuget/packages/",
+        "outputPath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertomartinez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.315/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengexUnitTests/TallerCodeChallengexUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengexUnitTests/TallerCodeChallengexUnitTests.csproj",
+        "projectName": "TallerCodeChallengexUnitTests",
+        "projectPath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengexUnitTests/TallerCodeChallengexUnitTests.csproj",
+        "packagesPath": "/Users/robertomartinez/.nuget/packages/",
+        "outputPath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengexUnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertomartinez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj": {
+                "projectPath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
