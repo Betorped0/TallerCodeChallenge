@@ -29,8 +29,8 @@ public class Product
     public string Name { get; set; }
     public decimal Price { get; set; }
 }
-```
-## Project Structure
+
+ Project Structure
 ├── src/
 │   ├── Controllers/
 │   │   └── ProductsController.cs
@@ -42,7 +42,7 @@ public class Product
 ├── TallerCodeChallengexUnitTests/
 │   └── ProductsControllerTests.cs
 └── README.md
-
+```
 ## Error Handling
 404 Not Found: When product ID doesn't exist
 400 Bad Request: When invalid data is submitted
