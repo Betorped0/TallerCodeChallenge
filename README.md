@@ -44,11 +44,12 @@ public class Product
 └── README.md
 ```
 ## Error Handling
-404 Not Found: When product ID doesn't exist
-400 Bad Request: When invalid data is submitted
-200 OK: Successful operations
-201 Created: Successful product creation
-Technologies Used
-C#
-ASP.NET Core
-xUnit (for testing)
+- 404 Not Found: When product ID doesn't exist
+- 400 Bad Request: When invalid data is submitted
+- 200 OK: Successful operations
+- 201 Created: Successful product creation
+
+##Technologies Used
+- C#
+- ASP.NET Core
+- xUnit (for testing)
