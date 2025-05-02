@@ -6,7 +6,7 @@ using TallerCodeChallengeAPI.Business;
 namespace TallerCodeChallengeAPI.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/products")]
     public class ProductController : ControllerBase
     {
         public Handler _hand = new Handler();
@@ -36,7 +36,7 @@ namespace TallerCodeChallengeAPI.Controllers
             if (result > 0)
             {
                 incrementalId++;
-                return Ok(result);
+                return StatusCode(201, result);
             }
             else
             {
@@ -63,7 +63,7 @@ namespace TallerCodeChallengeAPI.Controllers
         public ActionResult<Product> AddProductDummyProducts()
         {
             var result = _hand.DummyBulkAdd(Products, incrementalId);
-            return Ok(result);
+            return StatusCode(201, result);
         }
     }
 

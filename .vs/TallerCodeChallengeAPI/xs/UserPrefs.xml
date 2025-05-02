@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{1A0EA1D7-94AA-4120-8E90-31528A211DE1}|https">
+  <MonoDevelop.Ide.ItemProperties.TallerCodeChallengeAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TallerCodeChallengexUnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

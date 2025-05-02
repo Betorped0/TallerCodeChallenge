@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NITGjlJrURD8aSffya1PBSvWYAUcAYTLFdDz/seKfWaJfHTDn9+5D5e6IlwEnpo5O12Owa/YLUOveShmkSzq+g==",
+  "dgSpecHash": "2AONoyz63ARlVgRTR9UeDgASawoiAtDc3JGG/5N3nB1JrUu5rj9ZXmO6w2YcqR+ZzjrOYp0VKpdz8WeN1qwGfA==",
   "success": true,
-  "projectFilePath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengexUnitTests/TallerCodeChallengexUnitTests.csproj",
+  "projectFilePath": "/Users/robertomartinez/repos/TallerCodeChallenge/TallerCodeChallengexUnitTests/TallerCodeChallengexUnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/robertomartinez/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/robertomartinez/.nuget/packages/microsoft.aspnetcore.openapi/7.0.18/microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mWUi3QDbkAODAJcReTktPT8O0f0qyZPXWYWFOz6NUPCvGQNlFzx9+Dnm58DgoZMDyN/MIYzaXed4F0CLjsVfpQ==",
+  "dgSpecHash": "1oPS2K4rXXybkUCWaWs9yOfCeHtPGCO4VhzTcNHDfle1XWrcuOIfnWsXyqfzqSs15nX5znhkFf1QW6NaLCHcBQ==",
   "success": true,
-  "projectFilePath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
+  "projectFilePath": "/Users/robertomartinez/repos/TallerCodeChallenge/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
   "expectedPackageFiles": [
     "/Users/robertomartinez/.nuget/packages/microsoft.aspnetcore.openapi/7.0.18/microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
     "/Users/robertomartinez/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

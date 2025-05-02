@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj": {}
+    "/Users/robertomartinez/repos/TallerCodeChallenge/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj": {}
   },
   "projects": {
-    "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj": {
+    "/Users/robertomartinez/repos/TallerCodeChallenge/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
+        "projectUniqueName": "/Users/robertomartinez/repos/TallerCodeChallenge/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
         "projectName": "TallerCodeChallengeAPI",
-        "projectPath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
+        "projectPath": "/Users/robertomartinez/repos/TallerCodeChallenge/TallerCodeChallengeAPI/TallerCodeChallengeAPI.csproj",
         "packagesPath": "/Users/robertomartinez/.nuget/packages/",
-        "outputPath": "/Users/robertomartinez/Projects/TallerCodeChallengeAPI/TallerCodeChallengeAPI/obj/",
+        "outputPath": "/Users/robertomartinez/repos/TallerCodeChallenge/TallerCodeChallengeAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/robertomartinez/.nuget/NuGet/NuGet.Config"
