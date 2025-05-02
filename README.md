@@ -30,7 +30,7 @@ public class Product
     public decimal Price { get; set; }
 }
 
-Project Structure
+## Project Structure
 ├── src/
 │   ├── Controllers/
 │   │   └── ProductsController.cs
@@ -43,7 +43,7 @@ Project Structure
 │   └── ProductsControllerTests.cs
 └── README.md
 
-Error Handling
+## Error Handling
 404 Not Found: When product ID doesn't exist
 400 Bad Request: When invalid data is submitted
 200 OK: Successful operations
